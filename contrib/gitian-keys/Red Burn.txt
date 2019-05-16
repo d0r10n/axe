@@ -1,0 +1,46 @@
+4 x Spark Elemental
+4 x Hellspark Elemental
+4 x Keldon Marauders
+1 x Monastary Swiftspear
+
+3 x Titan Strength
+
+4 x Lightning Bolt
+4 x Shard Volley
+4 x Rift Bolt
+
+4 x Sulfuric Vortex
+1 x Smash To Smithereens
+2 x Naturalize
+
+
+4 x Lava Spike
+3 x Searing Blaze
+
+
+10 x Mountain
+3 x CinderGlade
+2 x Evolving Wilds
+3 x Forest
+
+
+SIDEBOARD
+========
+4 x Everlasting Torment
+2 x Searing Blood
+1 x Havoc
+2 x Pyroblast
+
+
+Leyline
+---
+OUT
+4 x Lava Spike
+3 x Searing Blaze
+
+
+IN
+4 x Everlasting Torment
+1 x Havoc
+1 x Shock
+1 x Double Cleave
